@@ -26,6 +26,9 @@ http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-11_720.m
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Paraguay/SNT.py.png",SNT
 https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cJHP7bU.png",CANAL 9
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-16.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/logos/Paraguay/Paravision.py.png",PARAVISION
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 
